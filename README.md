@@ -2,18 +2,15 @@
 
 This project demonstrates practical SQL skills by analyzing an e-commerce dataset using structured queries and performance tuning techniques.
 
-## 📁 Project Structure
+#### 📁 Project Structure
 
 SQL-Data-Analysis/
-├── olist.db # SQLite database (E-commerce dataset)
 ├── queries.sql # SQL queries for analysis
 ├── output.csv # (Optional) Exported query result
 ├── SCREENSHOTS/ # Folder with selected screenshots of query outputs
-└── README.md # This file
+├── README.md # This file
+└── olist.db # (Not in repo — download link below)
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -62,5 +59,7 @@ The goal of this project is to explore and analyze a relational database through
 This project emphasizes how structured queries can derive meaningful insights from raw data and highlights the importance of query performance and clean data handling in real-world analytics.
 
 ---
+⚠️ Note: The `olist.db` file was removed due to GitHub’s 100MB file limit.  
+📥 [Download the database file from Google Drive](https://drive.google.com/file/d/1n9Innwvb8XK1EPixQUck6eED5hyqGMDz/view?usp=drive_link)
 
 > ⭐ Feel free to fork or reference this project if you're working on similar data analysis tasks!
