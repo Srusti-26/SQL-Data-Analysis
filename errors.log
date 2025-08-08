@@ -1,0 +1,5 @@
+Parse error near line 29: view high_value_customers already exists
+  CREATE VIEW high_value_customers AS SELECT o.customer_id, SUM(p.payment_value)
+              ^--- error here
+Parse error near line 37: index idx_order_id already exists
+Parse error near line 38: index idx_customer_id already exists
