@@ -3,7 +3,7 @@
 This project demonstrates practical SQL skills by analyzing an e-commerce dataset using structured queries and performance tuning techniques.
 
 #### 📁 Project Structure
-
+```text
 SQL-Data-Analysis/
 ├── queries.sql # SQL queries for analysis
 ├── output.csv # (Optional) Exported query result
@@ -11,7 +11,7 @@ SQL-Data-Analysis/
 ├── README.md # This file
 └── olist.db # (Not in repo — download link below)
 
-
+```text
 ---
 
 ## 🔍 Overview
