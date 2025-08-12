@@ -11,7 +11,7 @@ SQL-Data-Analysis/
 ├── README.md # This file
 └── olist.db # (Not in repo — download link below)
 
-```text
+```
 ---
 
 ## 🔍 Overview
